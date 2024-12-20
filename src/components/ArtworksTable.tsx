@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { DataTable, DataTableSelectionMultipleChangeEvent } from 'primereact/datatable';
+import { DataTable } from 'primereact/datatable';
 import { Column } from 'primereact/column';
 import { Button } from 'primereact/button';
 import { OverlayPanel } from 'primereact/overlaypanel';
